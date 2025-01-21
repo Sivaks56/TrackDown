@@ -16,6 +16,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
  <a href="https://render.com/deploy?repo=https://github.com/Th30neAnd0nly/TrackDown">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
 #### Video Tutorial 
 
 [![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
